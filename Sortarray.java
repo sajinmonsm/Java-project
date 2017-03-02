@@ -1,4 +1,4 @@
-package in.orangecounty.sajin;
+package in.orangecounty.sajin.sajin;
 
 import java.util.Arrays;
 import java.util.Comparator;
